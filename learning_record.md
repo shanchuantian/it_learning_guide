@@ -1,5 +1,11 @@
 读书记录
 
+- 2017-03-06 [大话数据结构](https://book.douban.com/subject/6424904/)
+
+
+- 2017-07-02 [OpenCV3编程入门](https://book.douban.com/subject/26320896/)
+
+
 - 2017-08-24 [你的灯亮着吗?](https://book.douban.com/subject/1135754/)
 
 
@@ -14,6 +20,10 @@
 - 2017-10-22 [ 《计算机组成（第 6 版）》](https://book.douban.com/subject/25982323/)
 
   笔记： [读书笔记-计算机组成结构化方法](http://blog.csdn.net/shanchuan2012/article/details/78310436)
+
+-  2017-11-15 优达学城[《计算机科学导论》](https://classroom.udacity.com/courses/cs101)
+
+   笔记：[优达学城《计算机科学导论》小结](http://blog.csdn.net/shanchuan2012/article/details/78537344)
 
 - 2017.12.29 [ 《The Linux Command Line》(豆瓣)](https://book.douban.com/subject/6806862/)
 
