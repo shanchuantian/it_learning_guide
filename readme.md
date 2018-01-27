@@ -39,4 +39,3 @@
 # 我的读书记录
 
 [我的读书记录](learning_record.md)
-
