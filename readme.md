@@ -36,6 +36,10 @@
 
 编程者的能力矩阵 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
+[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+[理想的计算机科学知识体系](http://www.penglixun.com/study/computer_science_knowledge_hierarchy.html)
+
 # 我的读书记录
 
 [我的读书记录](learning_record.md)
