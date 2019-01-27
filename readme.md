@@ -28,7 +28,7 @@
 
 # 参考学习路线
 
-我的译文：[译文-Teach Yourself Computer Science-自学计算机科学](http://shanchuantian.com/2017/12/23/2017_12_23_teach_yourself_computer_science/)
+我的译文：[译文-Teach Yourself Computer Science-自学计算机科学](https://blog.csdn.net/shanchuan2012/article/details/78882751)
 
 [谷歌推荐的计算机科学学习路线](http://blog.csdn.net/zhangyulin311/article/details/51724854)
 
