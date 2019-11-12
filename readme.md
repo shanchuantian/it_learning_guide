@@ -40,6 +40,8 @@
 
 [理想的计算机科学知识体系](http://www.penglixun.com/study/computer_science_knowledge_hierarchy.html)
 
+[Full Stack Python](https://www.fullstackpython.com/)
+
 # 我的读书记录
 
 [我的读书记录](learning_record.md)
