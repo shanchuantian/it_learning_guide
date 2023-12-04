@@ -1,4 +1,8 @@
-读书记录
+# 一些学习资源
+
+[小林coding](https://www.xiaolincoding.com/) - 图解计算机网络、操作系统、计算机组成、数据库
+
+# 读书记录
 
 - 2017-03-06 [大话数据结构](https://book.douban.com/subject/6424904/)
 
